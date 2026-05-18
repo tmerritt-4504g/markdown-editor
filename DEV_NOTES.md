@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-15
 - Removed unused variable declarations
+
+## 2026-05-18
+- Reviewed codebase, identified areas for improvement
+- Verified compatibility with latest runtime version
+- Noted known limitation in docs
